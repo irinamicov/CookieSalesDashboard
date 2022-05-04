@@ -1,5 +1,7 @@
 # Cookie Sales Dashboard 
 
+<img width="1373" alt="Screenshot 2022-04-30 at 16 08 28" src="https://user-images.githubusercontent.com/87451744/166647976-905c346b-ea95-45e8-9b56-f4886131d30d.png">
+
 ## Project description
 Interactive dashboard in **Excel** built using cookie company data.
 
